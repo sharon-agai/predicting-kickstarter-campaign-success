@@ -2,7 +2,7 @@
 # By: Sharon Agai
 
 ### Introduction
-Crowdfunding has exploded in popularity over the past decade. Although the concept of crowdfunding has been around since the 1700s, online crowdfunding emerged in 2001 (ArtistShare) and really began to take off when IndieGogo, Kickstarter, and GoFundMe entered the crowdfunding industry in 2007, 2009, and 2010 respectively [source](https://www.startups.co/articles/history-of-crowdfunding). 
+Crowdfunding has exploded in popularity over the past decade. Although the concept of crowdfunding has been around since the 1700s, online crowdfunding emerged in 2001 (ArtistShare) and really began to take off when IndieGogo, Kickstarter, and GoFundMe entered the crowdfunding industry in 2007, 2009, and 2010 respectively ([source])(https://www.startups.co/articles/history-of-crowdfunding). 
 These companies provided better platforms for crowdfunding and did so at the right time. Under the pressure of the 2008 recession, crowdfunding was a way for people to raise money without using an official financial institution as an intermediary. 
 In the past few years, crowdfunding has become political. Healthcare-related crowdfunding campaigns are commonly used to highlight issues in the American healthcare system [NPR article about this](https://www.npr.org/sections/health-shots/2018/12/27/633979867/patients-are-turning-to-gofundme-to-fill-health-insurance-gaps). Most recently, the GoFundMe campaigns to build the proposed border wall and protests against it (digging tunnels under the proposed wall, or using ladders to climb over it) have [caught national attention](https://www.bbc.com/news/world-us-canada-46657393).
 
